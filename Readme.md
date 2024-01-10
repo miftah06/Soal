@@ -9,7 +9,7 @@ Cara Menggunakan
 
     bash
 
-git clone https://github.com/miftah06/Soal-Generator.git
+git clone https://github.com/miftah06/Soal.git
 
 Masuk ke direktori proyek:
 
