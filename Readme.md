@@ -15,7 +15,7 @@ Masuk ke direktori proyek:
 
 bash
 
-cd Soal-Generator
+cd Soal
 
 Install dependensi yang dibutuhkan:
 
