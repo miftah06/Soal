@@ -1,0 +1,7 @@
+google-api-python-client==2.27.0
+beautifulsoup4
+pandas
+urllib3
+fpdf
+chardet
+reportlab
