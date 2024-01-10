@@ -1,7 +1,20 @@
+
+GENERATE KATAKUNCI.TXT:
+
 https://randomtools.io/dev-tools/data-generator/
 https://wordcounter.net/random-word-generator
 
 https://ahrefs.com/keyword-generator
 
+ 
 http://randat.com/
 https://commentpicker.com/random-word-generator.php
+
+
+GENERATE SOAL:
+https://toolsaday.com/writing/questions-generator
+https://tinywow.com/write/essay-writer
+
+
+TRANSLATOR:
+https://www.onlinedoctranslator.com/en/translationform#google_vignette
